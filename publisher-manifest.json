@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7c00704e7bb208c1c8852296",
+  "owner": "gyhnusbwhx",
+  "repo": "page-6970ebe0db108afe2f5ba71b",
+  "title": "Freefly",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6970ebe0db108afe2f5ba71b",
+      "a": "Freefly",
+      "b": "2027最新官网",
+      "entity": "Freefly",
+      "brand": "Freefly",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3a5a0e740b770b301a84e71949a72c5f8a700b038e8e1d78a41f850425bcbeb1",
+      "content": {
+        "primary_entity": "Freefly",
+        "keyword1": "Freefly",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量需求挑选套餐，导入订阅开启加速。",
+          "AI_CLOSING_TITLE": "选对套餐即刻连接",
+          "AI_DESCRIPTION": "，面向跨境访问、流媒体解锁与游戏加速场景提供多档订阅。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并配备 IPLC 专线，团队版每月 1000GB 支持 20 台设备与定制路由。按年付可享更优价格，客户端覆盖常见桌面与移动系统。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐维度",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按用量匹配。",
+          "AI_FEATURE_TEXT_2": "设备数从 3 台到 20 台，覆盖个人多终端与小型团队。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线，团队版提供 VIP 高带宽与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量分层",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路与特权",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅配置，三步梳理使用流程。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "Freefly 为跨境访问、流媒体解锁和游戏加速提供多档订阅，按设备数量与月流量划分版本，支持按年付更优价格。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需加速",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线，5 台设备在线",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，20 台设备接入",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量、常用设备数量和是否需要专线选择版本。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端，查看订阅导入所需的适配要求。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅链接，完成节点与规则配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Freefly 加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。按日常浏览与视频用量选择，流量消耗较快可考虑旗舰版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台同时在线。设备较多时选择团队版更合适。",
+          "AI_FAQ_ANSWER_3": "可以。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，相比月付更划算。",
+          "AI_FAQ_ANSWER_4": "Clash、Shadowrocket、V2Ray、Sing-box 等客户端均支持导入 Freefly 订阅，按设备系统选择对应版本即可。",
+          "AI_FAQ_ANSWER_5": "基础版与旗舰版适合个人使用，团队版支持企业定制路由与专属客户经理，适合多人团队协作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Freefly 各档套餐的流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "Freefly 支持年付吗？价格如何？",
+          "AI_FAQ_QUESTION_4": "Freefly 订阅支持哪些客户端？",
+          "AI_FAQ_QUESTION_5": "团队版相比个人套餐有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mes358a93iw4bex3e.com",
+    "host": "xn--mes358a93iw4bex3e.com"
+  },
+  "file_hashes": {
+    "index.html": "49d2cd64a8502a58bbe6f190b0bc86b5f4a0c14492e58675bf103b5e66ef8cf8",
+    "sitemap.xml": "9451737d6ab0740fe8e4e068af2ca9d49a5bf6bfc3e1b717835c08c7d2cabf42",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7c1df544f2af37ad56c0da7bd9f191d13a816a5d69e7b849c4e273f69870330c",
+    "robots.txt": "5b671afe4bb2cc2be93d164ed981f620966b7f79a9e312b2eea9081285575d39",
+    "340c51573ef929b1c5b58630c9bbe7cd.txt": "035305e5874253beab2de3a7617c7fe2084a7927f442b9a48b5ebedc2ce82e5a"
+  },
+  "revision": "2cd35607c06df1cbc5bb9d24bb11f230c399e8c56265384592aa7877b218d619"
+}
